@@ -1,0 +1,2 @@
+# Zyni
+Music discord bot.
